@@ -3,7 +3,7 @@
 conda create -n my_env
 
 删除虚拟环境
-conda remove -n my_env
+conda remove -n my_env --all
 
 查看虚拟环境
 conda info --envs
